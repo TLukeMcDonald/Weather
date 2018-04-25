@@ -1,10 +1,9 @@
 # Jackhammerz Weather App
+Weekend project working with a developer team implimenting there designs.
 
 ## Team 
 Dev Team
 - Luke McDonald
-- Mark Albom
-- Mohammad Badruzzaman
 
 UX Team 
 - McKellen Rattray
@@ -23,18 +22,9 @@ Full user stories & task can be found [
 Trello](https://trello.com/b/cWocpnJz/weather-app)
 
 
-
-## References and Resources
-- Stripped Hamilton group 1's Project3 to framework and started from there.  
-- 
-- 
-- 
-
-
 ## Technologies
-
 - React
-- Express
+- Node, Express
 
 ## APIs
 
